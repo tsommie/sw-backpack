@@ -1,0 +1,19 @@
+{
+    "name": "tsommie/sw-backpack",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tsommie\\SwBackpack\\": "src/Tsommie/SwBackpack/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anitche Chisom",
+            "email": "anitchec.dev@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
